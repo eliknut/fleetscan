@@ -1,0 +1,14 @@
+# Go
+/fleetscan
+/dist/
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# Local workspace artefacts, never committed
+/HANDOFF.md
+/CLAUDE.md
+*.local.md
+.notes/
