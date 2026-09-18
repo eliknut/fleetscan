@@ -32,7 +32,7 @@ in-process, which keeps cloudctx's isolation intact while still scanning tenants
 ## Status
 
 Design complete, implementation not started. See
-[docs/superpowers/specs](docs/superpowers/specs/2026-09-17-fleetscan-design.md).
+[docs/design](docs/design/2026-09-17-fleetscan-design.md).
 
 ## Requirements
 
